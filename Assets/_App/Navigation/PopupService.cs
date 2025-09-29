@@ -85,7 +85,7 @@ namespace _App
                     break;
                 case 2:
                     var localPosition = popup.transform.localPosition.y;
-                    popup.transform.localPosition = new Vector3(0, -Screen.height, 0);
+                    popup.transform.localPosition = new Vector3(0, Screen.height, 0);
                     sequence.Append(popup.transform.DOLocalMoveY(localPosition, TWEENS_DURATION).SetEase(Ease.OutBack));
                     break;
             }
@@ -132,7 +132,7 @@ namespace _App
                     sequence.Append(popup.transform.DOScale(0, TWEENS_DURATION).SetEase(Ease.InBack));
                     break;
                 case 2:
-                    sequence.Append(popup.transform.DOLocalMoveY(-Screen.height, TWEENS_DURATION).SetEase(Ease.InBack));
+                    sequence.Append(popup.transform.DOLocalMoveY(Screen.height, TWEENS_DURATION).SetEase(Ease.InBack));
                     break;
             }
 

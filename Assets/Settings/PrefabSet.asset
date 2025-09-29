@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed55411b1d6a7364594df285be4c467d, type: 3}
+  m_Name: PrefabSet
+  m_EditorClassIdentifier: 
+  <Panels>k__BackingField: []
+  <Views>k__BackingField:
+  - {fileID: 633129840718237012, guid: 19a929c187abe7847993008a90fdd8fb, type: 3}
+  - {fileID: 6868903201097739795, guid: 4455de897f38c87489234258d08c86d1, type: 3}
+  <Popups>k__BackingField:
+  - {fileID: 5510381940628763997, guid: ba7b23d4bbb758f44b1ef4c5c96fb4d3, type: 3}
+  <Buttons>k__BackingField: []
+  <Prefabs>k__BackingField: []

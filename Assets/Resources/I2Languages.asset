@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: LOADING_SCREEN
+      TermType: 0
+      Description: 
+      Languages:
+      - Loading
+      - "\uB85C\uB4DC \uC911"
+      - "\u52A0\u8F7D\u4E2D"
+      - "\u8F09\u5165\u4E2D"
+      - "\u8AAD\u307F\u8FBC\u307F\u4E2D"
+      - Cargando
+      - Carregando
+      - Caricamento
+      - Laden
+      - Chargement
+      - "\u03A6\u03CC\u03C1\u03C4\u03C9\u03C3\u03B7"
+      - "Y\xFCkleniyor"
+      - "Za\u0142adunek"
+      - Carregando
+      - "\u0932\u094B\u0921 \u0939\u094B \u0930\u0939\u093E \u0939\u0948"
+      - "\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0430"
+      - Belastning
+      - "Na\u010D\xEDt\xE1n\xED"
+      - "\u0E01\u0E33\u0E25\u0E31\u0E07\u0E42\u0E2B\u0E25\u0E14"
+      - "\xCEnc\u0103rcare"
+      Flags: 0000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: MUSIC
+      TermType: 0
+      Description: 
+      Languages:
+      - Music
+      - "\uC74C\uC545"
+      - "\u97F3\u4E50"
+      - "\u97F3\u6A02"
+      - "\u97F3\u697D"
+      - "M\xFAsica"
+      - "M\xFAsica"
+      - Musica
+      - Musik
+      - Musique
+      - "\u039C\u03BF\u03C5\u03C3\u03B9\u03BA\u03AE"
+      - "M\xFCzik"
+      - Muzyka
+      - "M\xFAsica"
+      - "\u0938\u0902\u0917\u0940\u0924"
+      - "\u041C\u0443\u0437\u044B\u043A\u0430"
+      - Musik
+      - Hudba
+      - "\u0E14\u0E19\u0E15\u0E23\u0E35"
+      - "Muzic\u0103"
+      Flags: 0000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: SETTINGS
+      TermType: 0
+      Description: 
+      Languages:
+      - Settings
+      - "\uC124\uC815"
+      - "\u8BBE\u7F6E"
+      - "\u8A2D\u5B9A"
+      - "\u8A2D\u5B9A"
+      - Ajustes
+      - "Configura\xE7\xF5es"
+      - Impostazioni
+      - Einstellungen
+      - "Param\xE8tres"
+      - "\u03A1\u03C5\u03B8\u03BC\u03AF\u03C3\u03B5\u03B9\u03C2"
+      - Ayarlar
+      - Ustawienia
+      - "Configura\xE7\xF5es"
+      - "\u0938\u0947\u091F\u093F\u0902\u0917\u094D\u0938"
+      - "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+      - "Inst\xE4llningar"
+      - "Nastaven\xED"
+      - "\u0E01\u0E32\u0E23\u0E15\u0E31\u0E49\u0E07\u0E04\u0E48\u0E32"
+      - "Set\u0103ri"
+      Flags: 0000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: SHOP
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      - "\uAC00\uAC8C"
+      - "\u5E97\u94FA"
+      - "\u5E97\u92EA"
+      - "\u5E97"
+      - Comercio
+      - Comprar
+      - Negozio
+      - "Gesch\xE4ft"
+      - Boutique
+      - "\u039A\u03B1\u03C4\u03AC\u03C3\u03C4\u03B7\u03BC\u03B1"
+      - "Ma\u011Faza"
+      - Sklep
+      - Comprar
+      - "\u0926\u0941\u0915\u093E\u0928"
+      - "\u041C\u0430\u0433\u0430\u0437\u0438\u043D"
+      - Handla
+      - Nakupovat
+      - "\u0E23\u0E49\u0E32\u0E19\u0E04\u0E49\u0E32"
+      - Magazin
+      Flags: 0000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: SOUND_FX
+      TermType: 0
+      Description: 
+      Languages:
+      - Sounds
+      - "\uC18C\uB9AC"
+      - "\u58F0\u97F3"
+      - "\u8072\u97F3"
+      - "\u97F3"
+      - Sonidos
+      - Sons
+      - Suoni
+      - "Ger\xE4usche"
+      - Des Sons
+      - "\u0389\u03C7\u03BF\u03C5\u03C2"
+      - Sesler
+      - "D\u017Awi\u0119ki"
+      - Sons
+      - "\u0906\u0935\u093E\u091C\u093C"
+      - "\u0417\u0432\u0443\u043A\u0438"
+      - "L\xE5ter"
+      - Zvuky
+      - "\u0E40\u0E2A\u0E35\u0E22\u0E07"
+      - Sunete
+      Flags: 0000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: VIBRATION
+      TermType: 0
+      Description: 
+      Languages:
+      - Vibration
+      - "\uC9C4\uB3D9"
+      - "\u632F\u52A8"
+      - "\u632F\u52D5"
+      - "\u632F\u52D5"
+      - "Vibraci\xF3n"
+      - "Vibra\xE7\xE3o"
+      - Vibrazione
+      - Vibration
+      - Vibration
+      - "\u0394\u03CC\u03BD\u03B7\u03C3\u03B7"
+      - "Titre\u015Fim"
+      - Wibracja
+      - "Vibra\xE7\xE3o"
+      - "\u0915\u0902\u092A\u0928"
+      - "\u0412\u0438\u0431\u0440\u0430\u0446\u0438\u044F"
+      - Vibration
+      - Vibrace
+      - "\u0E01\u0E32\u0E23\u0E2A\u0E31\u0E48\u0E19\u0E2A\u0E30\u0E40\u0E17\u0E37\u0E2D\u0E19"
+      - Vibratie
+      Flags: 0000000000000000000000000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Taiwan
+      Code: zh-TW
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: France
+      Code: fr-FR
+      Flags: 0
+    - Name: Greek
+      Code: el
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: Polish
+      Code: pl
+      Flags: 0
+    - Name: Brazil
+      Code: pt-BR
+      Flags: 0
+    - Name: Hindi
+      Code: hi
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Swedish
+      Code: sv
+      Flags: 0
+    - Name: Czech
+      Code: cs
+      Flags: 0
+    - Name: Thailand
+      Code: th
+      Flags: 0
+    - Name: Romanian
+      Code: ro
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 2
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbzs71G_m3DwDCoqFdJPhYF69cJHTv64BpMwFCd4RCtuNkkz8jxFKphtB3n9iMc7oRQ/exec
+    Google_SpreadsheetKey: 1q77LEqSyXh32C0ygSQoAFYXJvmxAMkx0DwptIKrfdJY
+    Google_SpreadsheetName: 'I2Loc Warrior''s Rise: Idle Monster Hunt Localization'
+    Google_LastUpdatedVersion: 1723228903627
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
